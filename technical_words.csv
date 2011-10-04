@@ -1,0 +1,74 @@
+"argument (i.e. to a function)","引数","いんすう"
+"(character) string","文字配列 　　　","もじはいれつ"
+"a leak (watch out for these!)　(Also　メモリリーク (memori rīku) memory leak)","漏れ 　　　　　","もれ"
+"acquire (memory/resource)","獲得する　　　","かくとくする"
+"allocate (memory/resource)","確保する　　　","かくほする"
+"array","配列　　　　　","はいれつ"
+"assign","割り当てる 　　","わりあてる"
+"block","ブロック",
+"blog","ブログ",
+"built-in/predefined variable","定義済み変数 　","ていぎすみへんすう"
+"cache","キャッシュ",
+"calll (a function)","呼び出す","よびだす"
+"character","文字","もじ"
+"code","コード",
+"core library","コアライブラリ",
+"descriptor (e.g. file descriptor/handle)","記述(子) 　　","きじゅつ"
+"developer","開発者","かいはつしゃ"
+"development","開発","かいはつ"
+"development environment","開発環境","かいはつかんきょう"
+"diary (often used in place of blog)","日記","にっき"
+"diff","差分 　　　   ","さぶん"
+"digit","数字","すうじ"
+"dot (as in foo.bar)","ドット",
+"enumeration","列挙 　　　　　","れっきょ"
+"environment variable","環境変数 　　　","かんきょうへんすう"
+"exception (例外を投げる (reigai o nageru) throw an exception)","例外         ","れいがい"
+"expected failure (of a test)","予想通りの失敗","よそうどおりのしっぱい"
+"external variable","外部変数 　　　","がいぶへんすう"
+"feature","機能","きのう"
+"flexible","柔軟","じゅうなん"
+"floating point number"," ""浮動小数点"""," ""ふどうしょうすうてん"""
+"foobar","ホゲ         ",
+"full-width (as in character)","全角","ぜんかく"
+"function call","関数呼び出し","かんすうよびだし"
+"function name","関数名","かんすうめい"
+"global (as in variable)","グローバル",
+"global variable","グローバル変数","ぐろーばるへんすう"
+"hashrocket","ハッシュロ ケット",
+"implementation","実装","じっそう"
+"internal structure","内部構造","ないぶこうぞう"
+"latest","最新","さいしん"
+"local variable","局所変数 　　　","きょくしょへんすう"
+"member function (in C++ or Java, for instance)","メンバー関数","めんばーかんすう"
+"memory, and the stuff you can do with it","メモリ 　　　　",
+"method (on an object)","メソッド",
+"modification","変更","へんこう"
+"multibyte (as in character)","多バイト","たバイト"
+"multibyte (as in character)","マルチバイト",
+"object","オブジェクト",
+"operation (e.g. 浮動小数点演算 (fudōshōsūten'enzan) floating point operation)","演算 　　　　　",
+"plugin","プラグイン",
+"predefined function","定義済み関数","ていぎすみかんすう"
+"programmer","プローグラーマ",
+"recursive function (再帰 (saiki) in itself means recursion, and 末尾再帰 (matsubi saiki) is tail recursion)","再帰関数","さいきかんすう"
+"refactoring","リファクタリング",
+"refactoring","改善","かいぜん"
+"release/free (memory/resoruce)","解放する　　　","かいほうする"
+"return","復帰する","ふっきする"
+"return value  (Also 戻り値 (modori-chi))","返却値","へんきゃくち"
+"runtime","ランタイム",
+"shared variable","共用変数 　　　","きょうようへんすう"
+"spec","スペック",
+"statement","ステートメント",
+"static variable","静的変数 　　　","せいてきへんすう"
+"string","文字列","もじれつ"
+"test","テスト",
+"test framework","テストフレームワーク",
+"threadsafe","スレッドセーフ",
+"tool","ツール",
+"tutorial","チュートリアル",
+"ugly (as in code)","かっこ悪い","かっこわるい"
+"usage","使い","つかい"
+"variable","変数","へんすう"
+"variable name","変数名　　　　","へんすうめい"
